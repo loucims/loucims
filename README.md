@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @loucims
-- 👀 I’m interested in all things tech
-- 🌱 I’m currently learning game development
-- 💞️ I’m looking to collaborate on small scale projects
+- 👋 Hello! My name is Sebastian Loucim, and I am 17 years old.
+- 👀 I’m interested in all things tech.
+- 🌱 I’m currently learning game development.
+- 💞️ I’m looking to collaborate on small scale projects.
 - 📫 How to reach me sebastian.loucim@gmail.com
 
 <!---
