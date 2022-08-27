@@ -1,4 +1,4 @@
-- 👋 Hello! My name is Sebastian Loucim, and I am 17 years old.
+- 👋 Hello! My name is Sebastian Loucim, and I am 18 years old.
 - 👀 I’m interested in all things tech.
 - 🌱 I’m currently learning game development.
 - 💞️ I’m looking to collaborate on small scale projects.
