@@ -1,4 +1,4 @@
-- 👋 Hello! My name is Sebastian Loucim, and I am 20 years old.
+- 👋 Hello! My name is Sebastian Loucim, and I am 21 years old.
 - 👀 I’m interested in all things tech.
 - 💼 Currently working at Qontact as a Full-stack Developer.
 - 🌱 I’m currently learning game development.
